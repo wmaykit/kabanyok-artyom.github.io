@@ -1,2 +1,2 @@
-# Argentum1993.github.io
+# wmaykit.github.io
 Артём Кабанёк | Минск, Беларусь | Java Developer | Персональная страничка
